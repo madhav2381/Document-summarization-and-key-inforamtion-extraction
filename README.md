@@ -1,7 +1,7 @@
 # Document-summarization-and-key-inforamtion-extraction
 CS521 Statistical natural language processing language project
 
-This code is for the implementation of document summarization with HuggingFace Transformers - Pegasus, T5, ditibart
+This code is for the implementation of document summarization with HuggingFace Transformers - Pegasus, T5, distibart
 # Data Preparation
 Xsum dataset, which has BBC news articles text and their summaries, can be loaded using below code
 
