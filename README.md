@@ -1,7 +1,7 @@
 # Document-summarization-and-key-inforamtion-extraction
 CS521 Statistical natural language processing language project
 
-https://docs.google.com/presentation/d/e/2PACX-1vRpihznTgaP547SAc97yclb8gSzI3tTuj2ZRakwCxQxAuIqb5P06wgYiqvGfmbJXD3lAPxV88JOKM9g/pub?start=false&loop=false&delayms=3000
+https://docs.google.com/presentation/d/e/2PACX-1vSe2WcQdz7EjDwwqHC6WbxGK0mo2S6WnRseiXl1JCtyQ2_7B8fpeZ1gVJ7Sg0bBhE_ESQtq0382I9x4/pub?start=false&loop=false&delayms=3000
 
 This code is for the implementation of document summarization with HuggingFace Transformers - Pegasus, T5, distibart
 # Data Preparation
