@@ -1,5 +1,6 @@
 # Document-summarization-and-key-inforamtion-extraction
 CS521 Statistical natural language processing language project
+https://docs.google.com/presentation/d/e/2PACX-1vRpihznTgaP547SAc97yclb8gSzI3tTuj2ZRakwCxQxAuIqb5P06wgYiqvGfmbJXD3lAPxV88JOKM9g/pub?start=false&loop=false&delayms=3000
 
 This code is for the implementation of document summarization with HuggingFace Transformers - Pegasus, T5, distibart
 # Data Preparation
@@ -26,4 +27,3 @@ For the very long documents, sentences are convereted to chunks such that the nu
 
 # Model Evaluation
 Both pre-trained and fine-tune Models are evaluated using Rouge score(Rouge1, Rouge2, RougeL) and cosine similarity.
-
